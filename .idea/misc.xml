@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/MyIntentApp/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/MyIntentApp/app/src/main/res/layout/activity_move.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/MyIntentApp/app/src/main/res/layout/activity_move_for_result.xml" value="0.21" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/MyIntentApp/app/src/main/res/layout/activity_move_with_data.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/namasayapermana/AndroidStudioProjects/MyIntentApp/app/src/main/res/layout/activity_move_with_object.xml" value="0.20742753623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
